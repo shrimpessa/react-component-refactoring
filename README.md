@@ -1,2 +1,5 @@
-# react-component-refactoring
-Рефакторинг небольшого участка кода
+# Сборка
+```
+npm i
+npm start
+```
